@@ -1,0 +1,8 @@
+/*
+// 1. List the names of all the countries.
+( Country ) { name }
+// 2. List the names of all the mountains that exceed (strictly) 4000 meters in height.
+( Mountain WHERE height > 4000.0 ) { name }
+// 3. List the provinces of Belgium that have a population that doesn’t exceed one million; for each province, provide the name of the capital and the population.
+( Province WHERE population <= 1000000 AND country = "B") { capital, population }
+*/
