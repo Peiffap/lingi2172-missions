@@ -1,0 +1,8 @@
+2020-02-09 17:27:05.369 UTC INFO [/Users/admin/Documents/Master/M1/q2/lingi2172/Projects/Mission 1 - Querying in Rel and in SQL  Optimization in Rel-20200205/binaries/rel/Reldb] Loaded missing expiration data from file 0x0
+2020-02-09 17:28:10.377 UTC SEVERE [/Users/admin/Documents/Master/M1/q2/lingi2172/Projects/Mission 1 - Querying in Rel and in SQL  Optimization in Rel-20200205/binaries/rel/Reldb] /Users/admin/Documents/Master/M1/q2/lingi2172/Projects/Mission 1 - Querying in Rel and in SQL  Optimization in Rel-20200205/binaries/rel/Reldb:FileDeletionDetector exited unexpectedly with exception java.io.IOException: Directory /Users/admin/Documents/Master/M1/q2/lingi2172/Projects/Mission 1 - Querying in Rel and in SQL  Optimization in Rel-20200205/binaries/rel/Reldb does not exist now. Something abnormal may happen.java.io.IOException: Directory /Users/admin/Documents/Master/M1/q2/lingi2172/Projects/Mission 1 - Querying in Rel and in SQL  Optimization in Rel-20200205/binaries/rel/Reldb does not exist now. Something abnormal may happen.
+	at com.sleepycat.je.log.FileDeletionDetector.processLogFileDeleteEvents(FileDeletionDetector.java:248)
+	at com.sleepycat.je.log.FileDeletionDetector.access$100(FileDeletionDetector.java:42)
+	at com.sleepycat.je.log.FileDeletionDetector$FileDeleteDetectTask.run(FileDeletionDetector.java:166)
+	at java.base/java.util.TimerThread.mainLoop(Unknown Source)
+	at java.base/java.util.TimerThread.run(Unknown Source)
+
