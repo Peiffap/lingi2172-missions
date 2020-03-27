@@ -1,0 +1,36 @@
+\BOOKMARK [1][-]{section.1}{Design Choices}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Request State}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Coordinates as Attribute}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Representing Friendships}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Allowing Carpooling}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Time as Attribute}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Price as Derived Attribute}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{Vehicle Type as Attribute}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.8}{``RENTAL\137SLOT'' as Weak Entity}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.9}{Mandatory Ownership for Vehicles}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.10}{Removed Hierarchy}{section.1}% 11
+\BOOKMARK [1][-]{section.2}{Addressing Comments}{}% 12
+\BOOKMARK [2][-]{subsection.2.1}{Reviewer 1}{section.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Aspects 1 \046 2}{subsection.2.1}% 14
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Aspect 8}{subsection.2.1}% 15
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Aspect 9}{subsection.2.1}% 16
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Aspect 10}{subsection.2.1}% 17
+\BOOKMARK [3][-]{subsubsection.2.1.5}{Aspect 11}{subsection.2.1}% 18
+\BOOKMARK [3][-]{subsubsection.2.1.6}{Aspect 12}{subsection.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.2}{Reviewer 2}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Aspect 6}{subsection.2.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Aspect 8}{subsection.2.2}% 22
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Aspect 9}{subsection.2.2}% 23
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Aspect 10}{subsection.2.2}% 24
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Aspect 11}{subsection.2.2}% 25
+\BOOKMARK [2][-]{subsection.2.3}{Reviewer 3}{section.2}% 26
+\BOOKMARK [1][-]{section.3}{From Conceptual Diagram to Physical Schema}{}% 27
+\BOOKMARK [2][-]{subsection.3.1}{Step 1: Converting Entities}{section.3}% 28
+\BOOKMARK [2][-]{subsection.3.2}{Step 2: Converting Weak Entities}{section.3}% 29
+\BOOKMARK [2][-]{subsection.3.3}{Step 3: Converting M:N relationships}{section.3}% 30
+\BOOKMARK [2][-]{subsection.3.4}{Verifying Requirements}{section.3}% 31
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Keys Are Properly Defined}{subsection.3.4}% 32
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Sensible Types}{subsection.3.4}% 33
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Third Normal Form}{subsection.3.4}% 34
+\BOOKMARK [3][-]{subsubsection.3.4.4}{Database Reflects Conceptual Design}{subsection.3.4}% 35
+\BOOKMARK [1][-]{subsubsection.3.4.4}{References}{}% 36
